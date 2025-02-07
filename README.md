@@ -1,6 +1,6 @@
 # best-movies
 
-![best-movies](./assets/mov-finder2.png)
+![best-movies](./assets/best-movies.png)
 
 ## Стек технологій
 
